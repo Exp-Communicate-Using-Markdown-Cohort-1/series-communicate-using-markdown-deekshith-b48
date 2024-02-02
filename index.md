@@ -1,6 +1,7 @@
 #####Welcome to the Markdown Activity!
 
-![Image Alt Text](https://example.com/image.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 
 #code examples
 
